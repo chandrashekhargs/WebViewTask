@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewTask</string>
+    <string name="mainname">SkillGun</string>
+    <string name="buttonname">Click Here To Display Website</string>
+</resources>
